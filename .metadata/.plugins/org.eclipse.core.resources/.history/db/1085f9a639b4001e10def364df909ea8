@@ -1,0 +1,5 @@
+package com.ATDev.services;
+
+public interface StudentService {
+
+}

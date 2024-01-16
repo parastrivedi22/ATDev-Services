@@ -1,0 +1,5 @@
+package com.ATDev.entities;
+
+public interface Student {
+
+}

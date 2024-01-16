@@ -1,0 +1,5 @@
+package com.ATDev.exceptions;
+
+public class GlobalExceptionHandler {
+
+}

@@ -1,0 +1,16 @@
+package com.ATDev.exceptions;
+
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Getter
+@Sette
+@NoArgsConstructor
+public class ResourceNotFoundException extends RuntimeException {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+}

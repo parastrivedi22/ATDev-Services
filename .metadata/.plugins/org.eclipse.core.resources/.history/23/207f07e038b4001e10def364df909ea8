@@ -1,0 +1,5 @@
+package com.ATDev.repositories;
+
+public interface StudentRepo {
+
+}
